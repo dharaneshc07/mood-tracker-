@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mood Tracker app</string>
+    <string-array name="moods">
+        <item>😄 Happy</item>
+        <item>😐 Neutral</item>
+        <item>😢 Sad</item>
+    </string-array>
+</resources>
